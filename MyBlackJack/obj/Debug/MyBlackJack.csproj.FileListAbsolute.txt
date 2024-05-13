@@ -1,0 +1,75 @@
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\ideapc\Documents\SharpDevelop Projects\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\Станислав\Desktop\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\ideapc\Desktop\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\doniy\Desktop\ДЗ\Проектирования\bj\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Properties.Resources.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Properties.Resources.resources
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\doniy\Desktop\ДЗ\Проектирования\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Properties.Resources.resources
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.Cache
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Registration.resources
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Logining.resources
+C:\Users\Mikhaello\Desktop\Учёба\5 семестр\ПИС\lab5\лаб5\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Bets.resources
+E:\Study\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe.config
+E:\Study\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.exe
+E:\Study\MyBlackJack\MyBlackJack\bin\Debug\MyBlackJack.pdb
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csprojAssemblyReference.cache
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Bets.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.FormLogin.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Logining.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.MainForm.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Properties.Resources.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.Registration.resources
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.GenerateResource.cache
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.csproj.CoreCompileInputs.cache
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.exe
+E:\Study\MyBlackJack\MyBlackJack\obj\Debug\MyBlackJack.pdb
